@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Rachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachithP)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **RachithP/RachithP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
